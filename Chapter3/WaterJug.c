@@ -119,7 +119,7 @@ void solve(){
             visited[ns->x][ns->y] = 1; //đánh dấu trạng thái được sinh ra
         }
 
-        //đổ nước từ bình 1 sang 2 
+        //đổ nước từ bình 2 sang 1 
         if (s->x + s-> y >= a){
                 ny = s->x + s->y - a;
                 nx = a;
