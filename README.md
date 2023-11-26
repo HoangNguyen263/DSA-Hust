@@ -24,3 +24,4 @@ Chương 5: Sắp xếp
 • Thuật toán sắp xếp trộn
 • Thuật toán sắp xếp nhanh
 • Thuật toán sắp xếp vun đống
+Chương 6:
