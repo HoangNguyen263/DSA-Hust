@@ -13,6 +13,7 @@ void solution(){
 	printf("\n");
 }
 
+//kiểm tra v có gán được cho x[k] không
 int check(int v, int k){
 	for (int i = 1; i < k; i++){
 		//kiem tra xem 2 cot co trung nhau ko x[i] != x[j] 
