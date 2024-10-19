@@ -1,5 +1,5 @@
 # DSA-Hust
-Code các bài trong slide IT3011 Hust: Đây là các bài mình đã code lại theo slide chính thức của viện (có tham khảo thêm slide cô Nguyễn Khánh Phương) kèm với comment giải thích của mình
+Slide IT3011 Hust: slide chính thức của viện (có tham khảo thêm slide cô Nguyễn Khánh Phương) 
 Chương 2: Sơ đồ các thuật toán cơ bản
 • Đệ quy
 • Đệ quy có nhớ
